@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Norma
-  m_Shader: {fileID: 4800000, guid: 000f23d7e1e2aa24694d7877767182da, type: 3}
+  m_Name: msms
+  m_Shader: {fileID: 4800000, guid: 5f42f31840eec2a438db5cc27d2237df, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
